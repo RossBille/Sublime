@@ -1,0 +1,5 @@
+{
+
+    "cmd": ["$file_path/venv/bin/python", "-u", "$file"]
+
+}
